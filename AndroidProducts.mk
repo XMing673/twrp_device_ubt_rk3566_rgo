@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_rk3566_rgo.mk
+    $(LOCAL_DIR)/twrp_rk3566_rgo.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_rk3566_rgo-user \

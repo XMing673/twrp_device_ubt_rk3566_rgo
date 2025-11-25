@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_rk3566_rgo-user
-add_lunch_combo omni_rk3566_rgo-userdebug
-add_lunch_combo omni_rk3566_rgo-eng
+add_lunch_combo twrp_rk3566_rgo-user
+add_lunch_combo twrp_rk3566_rgo-userdebug
+add_lunch_combo twrp_rk3566_rgo-eng
