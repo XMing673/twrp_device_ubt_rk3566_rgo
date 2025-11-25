@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_rk3566_rgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_rk3566_rgo-user \
-    omni_rk3566_rgo-userdebug \
-    omni_rk3566_rgo-eng
+    twrp_rk3566_rgo-user \
+    twrp_rk3566_rgo-userdebug \
+    twrp_rk3566_rgo-eng
